@@ -1,0 +1,18 @@
+body {
+    margin: 40px 20px 40px 20px;
+    background-image: url(https://www.nawpic.com/media/2020/puppy-nawpic-2.jpg);
+    background-size: cover;   
+}
+
+.container {
+    max-width: 50%;
+    background-color: rgba(22, 19, 6, 0.217);
+    color:black;
+    padding: 20px 20px 20px 20px;
+ }
+    
+#dan { 
+    margin-top: 20px;
+}
+
+
